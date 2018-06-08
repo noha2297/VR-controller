@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\bin\Debug\vrcontroller v3.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\bin\Debug\vrcontroller v3.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller_v3.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller_v3.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller v3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller v3.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller v3.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\bin\Debug\vrcontroller v3.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\vrcontroller v3\vrcontroller v3\obj\Debug\vrcontroller v3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\vr controller v3\vrcontroller v3\bin\Debug\vrcontroller v3.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\vr controller v3\vrcontroller v3\obj\Debug\vrcontroller v3.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\vr controller v3\vrcontroller v3\obj\Debug\vrcontroller v3.pdb
